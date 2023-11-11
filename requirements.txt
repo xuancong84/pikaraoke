@@ -17,7 +17,7 @@ python-bidi
 flask-paginate==2021.10.29
 torch>=1.5.1
 tqdm>=4.30
-librosa>=0.6.3
+librosa>=0.10
 pip
 soundfile
 spec_utils
